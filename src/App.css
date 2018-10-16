@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+}
+
+.jumbotron {
+  margin: 2px;
+  padding: 5px;
+}
+
+.card {
+  margin: 2px;
+  padding: 2px;
+  width: 200px;
+  text-align: center;
+  display: inline-block;
+}
+
+.card-body {
+  margin:2px;
+  padding: 5px;
+  display: inline-block;
+}
